@@ -1,7 +1,7 @@
 theme: "hextra"
 # Configuration
 baseURL: "https://example.com/"
-title: "Hextra"
+title: "skope"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -60,54 +60,50 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: documentation
-      name: Documentation
-      pageRef: /docs
-      weight: 1
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
-      weight: 2
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
-      weight: 3
     - identifier: about
       name: About
       pageRef: /about
-      weight: 4
+      weight: 1
     - identifier: monetary-and-exchange-monitor
       name: Monetary and Exchange
       pageRef: /monetary-and-exchange-monitor
-      weight: 5
+      weight: 2
+    - identifier: documentation
+      name: Documentation
+      pageRef: /docs
+      weight: 3
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 4
     - name: Search
-      weight: 6
+      weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 7
-      url: "https://github.com/jadrk040507/skope-docs"
-      params:
-        icon: github
+    # - name: GitHub
+    #   weight: 6
+    #   url: "https://github.com/jadrk040507/skope-docs"
+    #   params:
+    #     icon: github
 
-  sidebar:
-    - identifier: more
-      name: More
-      params:
-        type: separator
-      weight: 1
-    - identifier: about
-      name: "About"
-      pageRef: "/about"
-      weight: 2
-    - identifier: monetary
-      name: "Monetary"
-      pageRef: "/monetary"
-      weight: 3
-    - identifier: hugoDocs
-      name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 4
+  # sidebar:
+  #   - identifier: more
+  #     name: More
+  #     params:
+  #       type: separator
+  #     weight: 1
+  #   - identifier: about
+  #     name: "About"
+  #     pageRef: "/about"
+  #     weight: 2
+  #   - identifier: monetary
+  #     name: "Monetary"
+  #     pageRef: "/monetary"
+  #     weight: 3
+  #   - identifier: hugoDocs
+  #     name: "Hugo Docs ↗"
+  #     url: "https://gohugo.io/documentation/"
+  #     weight: 4
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
