@@ -5,7 +5,7 @@ title: "Hextra"
 
 enableRobotsTXT: true
 enableGitInfo: true
-# enableEmoji: false
+enableEmoji: false
 hasCJKLanguage: true
 
 # services:
@@ -22,17 +22,22 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Hextra
+    title: skope
+  es:
+    languageName: Español
+    languageCode: es
+    weight: 2
+    title: skope
   zh-cn:
     languageName: 简体中文
     languageCode: zh-CN
-    weight: 2
-    title: Hextra
+    weight: 3
+    title: skope
   fa:
     languageName: فارسی
     languageCode: fa
     languageDirection: rtl
-    weight: 3
+    weight: 4
     title: هگزترا
 
 module:
@@ -77,7 +82,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/jadrk040507/skope-docs"
       params:
         icon: github
 
@@ -100,13 +105,13 @@ params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: true
     logo:
-      path: images/logo.svg
-      dark: images/logo-dark.svg
-      # width: 40
-      # height: 20
+      path: images/logo.png
+      dark: images/logo-dark.png
+      width: 50
+      height: 50
       # link: /
     width: wide
 
@@ -143,7 +148,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/jadrk040507/skope-docs"
 
   blog:
     list:
