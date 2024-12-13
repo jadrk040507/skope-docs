@@ -76,9 +76,9 @@ menu:
       name: About
       pageRef: /about
       weight: 4
-    - identifier: monetary
-      name: "Monetary"
-      pageRef: /monetary
+    - identifier: monetary-and-exchange-monitor
+      name: Monetary and Exchange
+      pageRef: /monetary-and-exchange-monitor
       weight: 5
     - name: Search
       weight: 6
