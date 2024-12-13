@@ -78,7 +78,7 @@ menu:
       weight: 4
     - identifier: monetary
       name: "Monetary"
-      pageRef: "/monetary"
+      pageRef: /monetary
       weight: 5
     - name: Search
       weight: 6
