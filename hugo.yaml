@@ -99,11 +99,11 @@ menu:
     - identifier: monetary
       name: "Monetary"
       pageRef: "/monetary"
-      weight: 2
+      weight: 3
     - identifier: hugoDocs
       name: "Hugo Docs ↗"
       url: "https://gohugo.io/documentation/"
-      weight: 3
+      weight: 4
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
