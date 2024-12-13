@@ -11,13 +11,14 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Build modern websites&nbsp;<br class="sm:hx-block hx-hidden" />with Markdown and Hugo
+  Welcome to skope&nbsp;<br class="sm:hx-block hx-hidden" />
+  the economics observatory at UP
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Fast, batteries-included Hugo theme&nbsp;<br class="sm:hx-block hx-hidden" />for creating beautiful static websites
+  This is a place where the university community (faculty and students) <br class="sm:hx-block hx-hidden" />analyze the economy and trace its performance.
 {{< /hextra/hero-subtitle >}}
 </div>
 
