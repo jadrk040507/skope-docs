@@ -76,12 +76,16 @@ menu:
       name: About
       pageRef: /about
       weight: 4
-    - name: Search
+    - identifier: monetary
+      name: "Monetary"
+      pageRef: "/monetary"
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/jadrk040507/skope-docs"
       params:
         icon: github
