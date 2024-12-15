@@ -5,7 +5,7 @@ title: "skope"
 
 enableRobotsTXT: true
 enableGitInfo: true
-enableEmoji: false
+enableEmoji: true
 hasCJKLanguage: true
 
 # services:
@@ -71,11 +71,11 @@ menu:
     - identifier: documentation
       name: Documentation
       pageRef: /docs
-      weight: 3
+      weight: 4
     - identifier: blog
       name: Blog
       pageRef: /blog
-      weight: 4
+      weight: 3
     - name: Search
       weight: 5
       params:
@@ -131,7 +131,7 @@ params:
   footer:
     enable: true
     displayCopyright: true
-    displayPoweredBy: true
+    displayPoweredBy: false
     width: normal
 
   displayUpdatedDate: true
