@@ -6,7 +6,7 @@ library(dplyr)
 library(tidyr)
 
 # Define your INEGI API key
-inegi.api = '446548c3-7b55-4b22-8430-ac8f251ea555'
+inegi.api = Sys.getenv("INEGI_API")
 
 # Load dfs
 weights <- read.csv("scripts/r/weights.csv") %>% 

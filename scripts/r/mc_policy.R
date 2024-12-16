@@ -5,8 +5,8 @@ library(dplyr)
 library(purrr)
 library(tidyr)
 
-# Define your INEGI API key
-setToken("86d02771fd6b64ce29912469f70d872cf666627201a5d7e819a82c452ae61289")
+# Define your BANXICO API key
+setToken(Sys.getenv("BANXICO_API"))
 
 # Fetch the data using the specified series IDs
 idSeries <- c("SF61745", "SP30578", "SR14194") 
