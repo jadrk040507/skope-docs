@@ -9,7 +9,7 @@ library(tidyr)
 inegi.api = '446548c3-7b55-4b22-8430-ac8f251ea555'
 
 # Load dfs
-weights <- read.csv("r/weights.csv") %>% 
+weights <- read.csv("scripts/r/weights.csv") %>% 
   reframe(Concept, Weight = Weight/100)
 
 # Fetch the data using the specified series IDs
@@ -41,4 +41,4 @@ series.incidence <- series.wide %>%
   filter(date >= "2024-01-01")
 
 # Specify the output directory and file name
-(write.csv(series.incidence, "data/mc_inflation_weights.csv", row.names = FALSE))
+(write.csv(series.incidence, "scripts/data/mc_inflation_weights.csv", row.names = FALSE))

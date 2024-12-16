@@ -1,6 +1,6 @@
 theme: "hextra"
 # Configuration
-baseURL: "https://skope-git.economiaup.com/"
+baseURL: "https://skope-docs.economiaup.com/"
 title: "skope"
 
 enableRobotsTXT: true
