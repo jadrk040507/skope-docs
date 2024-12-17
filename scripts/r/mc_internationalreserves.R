@@ -22,6 +22,9 @@ reserves <- getSerieDataFrame(series, "SF29656")
 asset <- getSerieDataFrame(series, "SF29654")
 fx <-  getSerieDataFrame(series, "SF63528")
 
+series.df <- reduce(list(reserves, asset), full_join, by = "date")
+colnames(series.df) <- c("date", "Reserva internacional", "Activo internacional total")
 
 # Specify the output directory and file name
 write.csv(reserves, "scripts/data/mc_internationalreserves.csv", row.names = FALSE)
+write.csv(reserves, "scripts/data/mc_reserves&assets.csv", row.names = FALSE)
