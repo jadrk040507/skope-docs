@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>هگزترا – معرفی</title>
-    <link>http://localhost:4321/fa/docs/</link>
+    <link>http://localhost:1313/fa/docs/</link>
     <description>Recent content in معرفی on هگزترا</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     
-	  <atom:link href="http://localhost:4321/fa/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/fa/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>چند زبانه</title>
-      <link>http://localhost:4321/fa/docs/advanced/multi-language/</link>
+      <link>http://localhost:1313/fa/docs/advanced/multi-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/advanced/multi-language/</guid>
+      <guid>http://localhost:1313/fa/docs/advanced/multi-language/</guid>
       <description>
         
         
@@ -170,10 +170,10 @@
     
     <item>
       <title>سازماندهی پرونده‌ها</title>
-      <link>http://localhost:4321/fa/docs/guide/organize-files/</link>
+      <link>http://localhost:1313/fa/docs/guide/organize-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/organize-files/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/organize-files/</guid>
       <description>
         
         
@@ -603,10 +603,10 @@
     
     <item>
       <title>شروع کنید</title>
-      <link>http://localhost:4321/fa/docs/getting-started/</link>
+      <link>http://localhost:1313/fa/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/getting-started/</guid>
+      <guid>http://localhost:1313/fa/docs/getting-started/</guid>
       <description>
         
         
@@ -921,10 +921,10 @@
     
     <item>
       <title>پیکربندی</title>
-      <link>http://localhost:4321/fa/docs/guide/configuration/</link>
+      <link>http://localhost:1313/fa/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/configuration/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/configuration/</guid>
       <description>
         
         
@@ -1076,7 +1076,7 @@
 &lt;h2&gt;نوار کناری&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;نوار-کناری&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%86%d9%88%d8%a7%d8%b1-%da%a9%d9%86%d8%a7%d8%b1%db%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;نوار کناری اصلی&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;نوار-کناری-اصلی&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%86%d9%88%d8%a7%d8%b1-%da%a9%d9%86%d8%a7%d8%b1%db%8c-%d8%a7%d8%b5%d9%84%db%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;برای نوار کناری اصلی، به طور خودکار از ساختار دایرکتوری محتوا تولید می‌شود.
-برای جزئیات بیشتر به صفحه &lt;a href=&#34;http://localhost:4321/fa/docs/guide/organize-files&#34; &gt;سازماندهی پرونده‌ها&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
+برای جزئیات بیشتر به صفحه &lt;a href=&#34;http://localhost:1313/fa/docs/guide/organize-files&#34; &gt;سازماندهی پرونده‌ها&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
 &lt;p&gt;برای حذف یک صفحه از نوار کناری سمت راست، پارامتر&lt;code&gt;sidebar.exclude&lt;/code&gt; را در قسمت بالایی صفحه تنظیم کنید:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
   
@@ -1401,10 +1401,10 @@
     
     <item>
       <title>مارک‌داون</title>
-      <link>http://localhost:4321/fa/docs/guide/markdown/</link>
+      <link>http://localhost:1313/fa/docs/guide/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/markdown/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/markdown/</guid>
       <description>
         
         
@@ -1722,10 +1722,10 @@
     
     <item>
       <title>برجسته‌کردن سینتکس</title>
-      <link>http://localhost:4321/fa/docs/guide/syntax-highlighting/</link>
+      <link>http://localhost:1313/fa/docs/guide/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/syntax-highlighting/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/syntax-highlighting/</guid>
       <description>
         
         
@@ -1909,10 +1909,10 @@
     
     <item>
       <title>LaTeX</title>
-      <link>http://localhost:4321/fa/docs/guide/latex/</link>
+      <link>http://localhost:1313/fa/docs/guide/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/latex/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/latex/</guid>
       <description>
         
         
@@ -2000,10 +2000,10 @@
     
     <item>
       <title>نمودارها</title>
-      <link>http://localhost:4321/fa/docs/guide/diagrams/</link>
+      <link>http://localhost:1313/fa/docs/guide/diagrams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/diagrams/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/diagrams/</guid>
       <description>
         
         
@@ -2054,10 +2054,10 @@
     
     <item>
       <title>کامپوننت FileTree</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/filetree/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/filetree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/filetree/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/filetree/</guid>
       <description>
         
         
@@ -2148,10 +2148,10 @@
     
     <item>
       <title>آیکون</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/icon/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/icon/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/icon/</guid>
       <description>
         
         
@@ -2239,10 +2239,10 @@
     
     <item>
       <title>به‌کاراندازی سایت</title>
-      <link>http://localhost:4321/fa/docs/guide/deploy-site/</link>
+      <link>http://localhost:1313/fa/docs/guide/deploy-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/deploy-site/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/deploy-site/</guid>
       <description>
         
         
@@ -2466,10 +2466,10 @@
     
     <item>
       <title>جزئیات</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/details/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/details/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/details/</guid>
       <description>
         
         
@@ -2538,10 +2538,10 @@
     
     <item>
       <title>زبانه‌ها</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/tabs/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/tabs/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/tabs/</guid>
       <description>
         
         
@@ -2766,10 +2766,10 @@
     
     <item>
       <title>سفارشی‌سازی هگزترا</title>
-      <link>http://localhost:4321/fa/docs/advanced/customization/</link>
+      <link>http://localhost:1313/fa/docs/advanced/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/advanced/customization/</guid>
+      <guid>http://localhost:1313/fa/docs/advanced/customization/</guid>
       <description>
         
         
@@ -2881,10 +2881,10 @@
     
     <item>
       <title>کامپوننت فراخوانی</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/callout/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/callout/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/callout/</guid>
       <description>
         
         
@@ -3204,10 +3204,10 @@
     
     <item>
       <title>کامپوننت کارت‌ها</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/cards/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/cards/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/cards/</guid>
       <description>
         
         
@@ -3217,13 +3217,13 @@
     class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;../callout&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.5&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;فراخوانی&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;http://localhost:4321/fa&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;http://localhost:1313/fa&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;بدون آیکون&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:4321/&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:1313/&#34;
       &gt;&lt;img
         alt=&#34;کارت تصویر&#34;
         class=&#34;hextra-card-image&#34;
@@ -3235,25 +3235,25 @@
         
       /&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;کارت تصویر&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;یک چشم‌انداز Unsplash&lt;/div&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:4321/&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:1313/&#34;
       &gt;&lt;img
         alt=&#34;تصویر محلی&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:4321/images/card-image-unprocessed.jpg&#34;
+        src=&#34;http://localhost:1313/images/card-image-unprocessed.jpg&#34;
         
         
         
       /&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;تصویر محلی&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;تصویر خام در دایرکتوری استاتیک است.&lt;/div&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:4321/&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:1313/&#34;
       &gt;&lt;img
         alt=&#34;تصویر محلی&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:4321/images/space_hu11732582055139980167.webp&#34;
+        src=&#34;http://localhost:1313/images/space_hu11732582055139980167.webp&#34;
         width=&#34;600&#34;
         height=&#34;450&#34;
         
@@ -3364,10 +3364,10 @@
     
     <item>
       <title>مراحل</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/steps/</link>
+      <link>http://localhost:1313/fa/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/steps/</guid>
+      <guid>http://localhost:1313/fa/docs/guide/shortcodes/steps/</guid>
       <description>
         
         
@@ -3414,10 +3414,10 @@
     
     <item>
       <title>سیستم نظردهی</title>
-      <link>http://localhost:4321/fa/docs/advanced/comments/</link>
+      <link>http://localhost:1313/fa/docs/advanced/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/advanced/comments/</guid>
+      <guid>http://localhost:1313/fa/docs/advanced/comments/</guid>
       <description>
         
         

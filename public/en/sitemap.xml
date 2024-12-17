@@ -2,146 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://skope-docs.economiaup.com/en/blog/</loc>
+    <loc>http://localhost:1313/en/blog/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://skope-docs.economiaup.com/blog/"
+                href="http://localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://skope-docs.economiaup.com/zh-cn/blog/"
+                href="http://localhost:1313/zh-cn/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://skope-docs.economiaup.com/fa/blog/"
+                href="http://localhost:1313/fa/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skope-docs.economiaup.com/en/blog/"
+                href="http://localhost:1313/en/blog/"
                 />
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://skope-docs.economiaup.com/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://skope-docs.economiaup.com/zh-cn/categories/"
+                href="http://localhost:1313/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://skope-docs.economiaup.com/fa/categories/"
+                href="http://localhost:1313/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skope-docs.economiaup.com/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/blog/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:1313/en/blog/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/tags/plot/</loc>
+    <loc>http://localhost:1313/en/tags/plot/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/categories/r/</loc>
+    <loc>http://localhost:1313/en/categories/r/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/tags/r-markdown/</loc>
+    <loc>http://localhost:1313/en/tags/r-markdown/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/tags/regression/</loc>
+    <loc>http://localhost:1313/en/tags/regression/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/</loc>
-    <lastmod>2024-12-17T12:28:08-06:00</lastmod>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-12-17T13:24:42-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://skope-docs.economiaup.com/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://skope-docs.economiaup.com/zh-cn/"
+                href="http://localhost:1313/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://skope-docs.economiaup.com/fa/"
+                href="http://localhost:1313/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skope-docs.economiaup.com/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2024-12-12T21:39:12-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://skope-docs.economiaup.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://skope-docs.economiaup.com/zh-cn/tags/"
+                href="http://localhost:1313/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://skope-docs.economiaup.com/fa/tags/"
+                href="http://localhost:1313/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skope-docs.economiaup.com/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
+    <lastmod>2024-12-17T13:24:42-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://skope-docs.economiaup.com/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://skope-docs.economiaup.com/zh-cn/about/"
+                href="http://localhost:1313/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://skope-docs.economiaup.com/fa/about/"
+                href="http://localhost:1313/fa/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skope-docs.economiaup.com/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>https://skope-docs.economiaup.com/en/monetary-and-exchange-monitor/</loc>
-    <lastmod>2024-12-17T12:28:08-06:00</lastmod>
+    <loc>http://localhost:1313/en/monetary-and-exchange-monitor/</loc>
+    <lastmod>2024-12-17T13:24:42-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://skope-docs.economiaup.com/monetary-and-exchange-monitor/"
+                href="http://localhost:1313/monetary-and-exchange-monitor/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://skope-docs.economiaup.com/en/monetary-and-exchange-monitor/"
+                href="http://localhost:1313/en/monetary-and-exchange-monitor/"
                 />
   </url>
 </urlset>
