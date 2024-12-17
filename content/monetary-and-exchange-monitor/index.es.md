@@ -13,11 +13,17 @@ La inflación refleja el aumento generalizado y sostenido de los precios de bien
 ### Inflación anual
 Muestra la variación porcentual de los precios a nivel anual. Este indicador es crucial para entender el comportamiento de los precios en el largo plazo y su impacto en la economía en general. Una inflación alta podría indicar problemas de escasez o desequilibrios económicos.
 
+<br>
 
-
+<iframe title="Tasa de inflación anual en México por sus componentes" aria-label="Interactive line chart" id="datawrapper-chart-chXVl" src="https://datawrapper.dwcdn.net/chXVl/21/" scrolling="no" frameborder="0" style="border: none;" width="600" height="436" data-external="1"></iframe>
 
 ### Inflación mensual
 Presenta la variación mensual de los precios, lo que permite identificar tendencias inmediatas y posibles choques de oferta o demanda. Es útil para ajustar políticas monetarias en el corto plazo.
+
+<br>
+
+<iframe title="Tasa de inflación mensual en México por sus componentes" aria-label="Interactive line chart" id="datawrapper-chart-s3XPn" src="https://datawrapper.dwcdn.net/s3XPn/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 ### Componentes de la inflación
 Analiza los grupos de productos y servicios que más influyen en la inflación, como alimentos, energía, y bienes duraderos. Esta información ayuda a entender qué sectores están generando presión sobre los precios y por qué.
