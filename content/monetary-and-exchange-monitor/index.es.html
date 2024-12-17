@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.39">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="">
+
+<title>Monitor cambiario y monetario</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="index.es_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index.es_files/libs/quarto-html/quarto.js"></script>
+<script src="index.es_files/libs/quarto-html/popper.min.js"></script>
+<script src="index.es_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index.es_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index.es_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index.es_files/libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index.es_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index.es_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index.es_files/libs/bootstrap/bootstrap-8a79a254b8e706d3c925cde0a310d4f0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Monitor cambiario y monetario</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="inflación" class="level2">
+<h2 class="anchored" data-anchor-id="inflación">Inflación</h2>
+<p>La inflación refleja el aumento generalizado y sostenido de los precios de bienes y servicios en un periodo determinado. Monitorear la inflación es esencial para comprender las presiones económicas internas y su impacto en el poder adquisitivo de la población.</p>
+<section id="inflación-anual" class="level3">
+<h3 class="anchored" data-anchor-id="inflación-anual">Inflación anual</h3>
+<p>Muestra la variación porcentual de los precios a nivel anual. Este indicador es crucial para entender el comportamiento de los precios en el largo plazo y su impacto en la economía en general. Una inflación alta podría indicar problemas de escasez o desequilibrios económicos.</p>
+</section>
+<section id="inflación-mensual" class="level3">
+<h3 class="anchored" data-anchor-id="inflación-mensual">Inflación mensual</h3>
+<p>Presenta la variación mensual de los precios, lo que permite identificar tendencias inmediatas y posibles choques de oferta o demanda. Es útil para ajustar políticas monetarias en el corto plazo.</p>
+</section>
+<section id="componentes-de-la-inflación" class="level3">
+<h3 class="anchored" data-anchor-id="componentes-de-la-inflación">Componentes de la inflación</h3>
+<p>Analiza los grupos de productos y servicios que más influyen en la inflación, como alimentos, energía, y bienes duraderos. Esta información ayuda a entender qué sectores están generando presión sobre los precios y por qué.</p>
+</section>
+</section>
+<section id="tipo-de-cambio" class="level2">
+<h2 class="anchored" data-anchor-id="tipo-de-cambio">Tipo de Cambio</h2>
+<p>El tipo de cambio es un indicador clave que refleja el valor de la moneda nacional frente a otras monedas extranjeras. Sus fluctuaciones tienen efectos directos sobre el comercio exterior, la competitividad y la estabilidad de la economía nacional.</p>
+<section id="tipo-de-cambio-diario" class="level3">
+<h3 class="anchored" data-anchor-id="tipo-de-cambio-diario">Tipo de Cambio Diario</h3>
+<p>Muestra la evolución diaria del tipo de cambio frente al dólar estadounidense y otras monedas. Permite observar la volatilidad y los cambios inmediatos en las relaciones comerciales internacionales.</p>
+</section>
+<section id="tipo-de-cambio-histórico" class="level3">
+<h3 class="anchored" data-anchor-id="tipo-de-cambio-histórico">Tipo de Cambio Histórico</h3>
+<p>Analiza el comportamiento del tipo de cambio en el largo plazo, identificando tendencias y períodos de estabilidad o crisis cambiarias que han afectado la economía mexicana.</p>
+</section>
+<section id="tipo-de-cambio-y-política-monetaria" class="level3">
+<h3 class="anchored" data-anchor-id="tipo-de-cambio-y-política-monetaria">Tipo de Cambio y Política Monetaria</h3>
+<p>Explora cómo las decisiones del Banco de México en materia de tasas de interés y políticas monetarias impactan el tipo de cambio, y cómo este, a su vez, puede influir en la inflación y el crecimiento económico.</p>
+</section>
+</section>
+<section id="reservas-internacionales" class="level2">
+<h2 class="anchored" data-anchor-id="reservas-internacionales">Reservas Internacionales</h2>
+<p>Las reservas internacionales son recursos en moneda extranjera que el Banco de México posee para garantizar la estabilidad económica y financiera del país. Estas reservas son clave para enfrentar crisis externas y asegurar la estabilidad del tipo de cambio.</p>
+<section id="niveles-de-reservas-internacionales" class="level3">
+<h3 class="anchored" data-anchor-id="niveles-de-reservas-internacionales">Niveles de Reservas Internacionales</h3>
+<p>Presenta los datos mensuales sobre el saldo de reservas internacionales, proporcionando una imagen clara de la capacidad de México para manejar choques externos y garantizar pagos internacionales.</p>
+</section>
+<section id="composición-de-las-reservas" class="level3">
+<h3 class="anchored" data-anchor-id="composición-de-las-reservas">Composición de las Reservas</h3>
+<p>Analiza los diferentes activos que componen las reservas internacionales, como divisas extranjeras, oro, y derechos especiales de giro (DEG), lo cual permite evaluar la solidez de las reservas.</p>
+</section>
+<section id="impacto-de-las-reservas-en-la-estabilidad-financiera" class="level3">
+<h3 class="anchored" data-anchor-id="impacto-de-las-reservas-en-la-estabilidad-financiera">Impacto de las Reservas en la Estabilidad Financiera</h3>
+<p>Discute cómo las reservas internacionales ayudan a mantener la estabilidad del tipo de cambio y protegen a la economía de crisis financieras externas, como una fuga de capitales o una crisis de deuda.</p>
+</section>
+</section>
+<section id="tasa-de-interés" class="level2">
+<h2 class="anchored" data-anchor-id="tasa-de-interés">Tasa de Interés</h2>
+<p>La tasa de interés es un instrumento clave de la política monetaria, utilizado por el Banco de México para controlar la inflación y regular la actividad económica. Esta tasa afecta directamente el costo del crédito, la inversión y el consumo en la economía.</p>
+<section id="tasa-de-interés-de-referencia" class="level3">
+<h3 class="anchored" data-anchor-id="tasa-de-interés-de-referencia">Tasa de Interés de Referencia</h3>
+<p>Presenta la evolución mensual de la tasa de interés de referencia fijada por el Banco de México. Este indicador es crucial para comprender las decisiones del banco central respecto al control de la inflación y la estabilidad económica.</p>
+</section>
+<section id="impacto-de-la-tasa-de-interés-en-la-economía" class="level3">
+<h3 class="anchored" data-anchor-id="impacto-de-la-tasa-de-interés-en-la-economía">Impacto de la Tasa de Interés en la Economía</h3>
+<p>Analiza cómo los cambios en la tasa de interés impactan el consumo, la inversión y la inflación. Las subidas de tasa pueden frenar el endeudamiento y el consumo, mientras que las bajas pueden estimular la economía.</p>
+</section>
+<section id="comparación-con-otras-economías" class="level3">
+<h3 class="anchored" data-anchor-id="comparación-con-otras-economías">Comparación con Otras Economías</h3>
+<p>Compara la tasa de interés en México con la de otras economías relevantes, lo que permite entender cómo las decisiones de política monetaria en México se alinean con las tendencias internacionales y afectan la competitividad.</p>
+</section>
+</section>
+<section id="emisión-monetaria" class="level2">
+<h2 class="anchored" data-anchor-id="emisión-monetaria">Emisión Monetaria</h2>
+<p>La emisión monetaria se refiere a la cantidad de dinero que el Banco de México pone en circulación. Controlar la emisión es fundamental para evitar presiones inflacionarias, ya que un exceso de dinero en circulación sin un respaldo adecuado puede generar un aumento de precios.</p>
+<section id="evolución-de-la-base-monetaria" class="level3">
+<h3 class="anchored" data-anchor-id="evolución-de-la-base-monetaria">Evolución de la Base Monetaria</h3>
+<p>Muestra el crecimiento de la base monetaria, que incluye el dinero en circulación y las reservas bancarias. Un aumento excesivo de la base monetaria puede generar inflación si no está respaldado por una expansión de la producción.</p>
+</section>
+<section id="liquidez-del-sistema-bancario" class="level3">
+<h3 class="anchored" data-anchor-id="liquidez-del-sistema-bancario">Liquidez del Sistema Bancario</h3>
+<p>Evalúa la liquidez disponible en el sistema financiero, lo que afecta la capacidad de los bancos comerciales para otorgar créditos. Un sistema bancario líquido facilita el acceso a financiamiento para empresas y consumidores.</p>
+</section>
+<section id="emisión-monetaria-y-política-monetaria" class="level3">
+<h3 class="anchored" data-anchor-id="emisión-monetaria-y-política-monetaria">Emisión Monetaria y Política Monetaria</h3>
+<p>Analiza cómo las decisiones sobre la emisión monetaria impactan la inflación, las tasas de interés y la estabilidad del sistema financiero. Un manejo adecuado de la emisión monetaria es esencial para el control de la economía.</p>
+</section>
+</section>
+<section id="liquidez-y-oferta-monetaria" class="level2">
+<h2 class="anchored" data-anchor-id="liquidez-y-oferta-monetaria">Liquidez y Oferta Monetaria</h2>
+<p>La oferta monetaria se refiere a la cantidad de dinero disponible en la economía. Un monitoreo adecuado de la liquidez es esencial para evaluar el dinamismo económico y las presiones inflacionarias, ya que una expansión excesiva de la oferta monetaria puede generar una inflación descontrolada.</p>
+<section id="oferta-monetaria-m1-y-m2" class="level3">
+<h3 class="anchored" data-anchor-id="oferta-monetaria-m1-y-m2">Oferta Monetaria M1 y M2</h3>
+<p>Presenta los agregados monetarios M1 (dinero en circulación y depósitos a la vista) y M2 (M1 más depósitos de ahorro y a plazo). Estos agregados ayudan a entender la disponibilidad de dinero en la economía y su potencial para generar inflación.</p>
+</section>
+<section id="liquidez-bancaria" class="level3">
+<h3 class="anchored" data-anchor-id="liquidez-bancaria">Liquidez Bancaria</h3>
+<p>Evalúa el nivel de liquidez en el sistema bancario, lo que puede influir en el crédito disponible para consumidores y empresas. La liquidez adecuada es fundamental para mantener la estabilidad económica.</p>
+</section>
+<section id="tasa-de-crecimiento-de-la-oferta-monetaria" class="level3">
+<h3 class="anchored" data-anchor-id="tasa-de-crecimiento-de-la-oferta-monetaria">Tasa de Crecimiento de la Oferta Monetaria</h3>
+<p>Mide la velocidad con la que crece la oferta monetaria. Un crecimiento rápido de la oferta monetaria sin un respaldo de la producción puede generar presiones inflacionarias.</p>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
