@@ -26,9 +26,12 @@ series.df <- series.df %>%
   arrange(date)
 
 # Rellena hacia abajo con el valor previo y hacia arriba con el siguiente (nearest neighbor)
-# series.df <- series.df %>%
-#   complete(date = seq(min(date), max(date), by = "1 day")) %>% # Asegura una secuencia completa de fechas
-#   fill(`Reserva Internacional`, `Activos Internacionales Totales`, `Tipo de cambio`, .direction = "downup") # Usa valores previos y siguientes para rellenar
+series.df <- series.df %>%
+  mutate(
+    `Reserva Internacional` = spline(date, `Reserva Internacional`, xout = date)$y,
+    `Activos Internacionales Totales` = spline(date, `Activos Internacionales Totales`, xout = date)$y,
+    `Tipo de cambio` = spline(date, `Tipo de cambio`, xout = date)$y
+  )
 
 # Filtra las fechas deseadas
 series.df <- series.df %>%

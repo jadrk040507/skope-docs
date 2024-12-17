@@ -66,6 +66,11 @@ Las reservas internacionales son recursos en moneda extranjera que el Banco de M
 ### Niveles de Reservas Internacionales
 Presenta los datos mensuales sobre el saldo de reservas internacionales, proporcionando una imagen clara de la capacidad de México para manejar choques externos y garantizar pagos internacionales.
 
+<br>
+
+<iframe title="Reservas internacionales de México" aria-label="Interactive line chart" id="datawrapper-chart-cVb7Y" src="https://datawrapper.dwcdn.net/cVb7Y/18/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="437" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ### Composición de las Reservas
 Analiza los diferentes activos que componen las reservas internacionales, como divisas extranjeras, oro, y derechos especiales de giro (DEG), lo cual permite evaluar la solidez de las reservas.
 
