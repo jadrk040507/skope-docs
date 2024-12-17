@@ -28,6 +28,10 @@ Presenta la variación mensual de los precios, lo que permite identificar tenden
 ### Componentes de la inflación
 Analiza los grupos de productos y servicios que más influyen en la inflación, como alimentos, energía, y bienes duraderos. Esta información ayuda a entender qué sectores están generando presión sobre los precios y por qué.
 
+<br>
+
+<iframe title="Incidencia de los componentes en la inflación mensual" aria-label="Barras apiladas" id="datawrapper-chart-F3o27" src="https://datawrapper.dwcdn.net/F3o27/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="416" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 ## Tipo de Cambio
 El tipo de cambio es un indicador clave que refleja el valor de la moneda nacional frente a otras monedas extranjeras. Sus fluctuaciones tienen efectos directos sobre el comercio exterior, la competitividad y la estabilidad de la economía nacional.
