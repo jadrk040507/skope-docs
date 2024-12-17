@@ -22,7 +22,8 @@ reserves <- getSerieDataFrame(series, "SF29656")
 asset <- getSerieDataFrame(series, "SF29654")
 fx <-  getSerieDataFrame(series, "SF63528")
 
-series.df <- reduce(list(reserves, asset), full_join, by = "date")
+series.df <- reduce(list(reserves, asset), full_join, by = "date") %>%
+  filter(date == max(date, na.rm = TRUE)) 
 colnames(series.df) <- c("date", "Reserva internacional", "Activo internacional total")
 
 # Specify the output directory and file name
