@@ -39,12 +39,26 @@ El tipo de cambio es un indicador clave que refleja el valor de la moneda nacion
 ### Tipo de Cambio Diario
 Muestra la evolución diaria del tipo de cambio frente al dólar estadounidense y otras monedas. Permite observar la volatilidad y los cambios inmediatos en las relaciones comerciales internacionales.
 
+<br>
+
+<iframe title="Tipo de cambio peso mexicano / dólar (MXN/USD)" aria-label="Interactive line chart" id="datawrapper-chart-ZuqfU" src="https://datawrapper.dwcdn.net/ZuqfU/24/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="452" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ### Tipo de Cambio Histórico
 Analiza el comportamiento del tipo de cambio en el largo plazo, identificando tendencias y períodos de estabilidad o crisis cambiarias que han afectado la economía mexicana.
+
+<br>
+
+<iframe title="Tipo de cambio peso mexicano / dólar (MXN/USD)" aria-label="Interactive line chart" id="datawrapper-chart-mv6Ig" src="https://datawrapper.dwcdn.net/mv6Ig/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="437" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 ### Tipo de Cambio y Política Monetaria
 Explora cómo las decisiones del Banco de México en materia de tasas de interés y políticas monetarias impactan el tipo de cambio, y cómo este, a su vez, puede influir en la inflación y el crecimiento económico.
 
+<br>
+
+<iframe title="Tipo de cambio MXN/USD frente a la política monetaria" aria-label="Multiple Lines" id="datawrapper-chart-iZMvR" src="https://datawrapper.dwcdn.net/iZMvR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="307" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 ## Reservas Internacionales
 Las reservas internacionales son recursos en moneda extranjera que el Banco de México posee para garantizar la estabilidad económica y financiera del país. Estas reservas son clave para enfrentar crisis externas y asegurar la estabilidad del tipo de cambio.
