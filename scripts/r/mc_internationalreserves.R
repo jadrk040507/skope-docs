@@ -28,4 +28,4 @@ colnames(series.df) <- c("date", "Reserva internacional", "Activo internacional 
 
 # Specify the output directory and file name
 write.csv(reserves, "scripts/data/mc_internationalreserves.csv", row.names = FALSE)
-write.csv(reserves, "scripts/data/mc_reserves&assets.csv", row.names = FALSE)
+write.csv(series.df, "scripts/data/mc_reserves&assets.csv", row.names = FALSE)
