@@ -79,6 +79,3 @@ write.csv(series.wide, "scripts/data/mc_inflation.csv", row.names = FALSE)
 #   scale_color_economist()
 # 
 # ggsave("scripts/plots/mc_inflation.png", width = 6, height = 6, dpi = 600)
-
-
-  
