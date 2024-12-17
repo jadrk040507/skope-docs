@@ -15,8 +15,6 @@ Key indicator of Banco de México's monetary policy. A high rate generally aims 
 
 Inflation shows how prices increase over time and affects purchasing power. It is divided into core (stable) and non-core (volatile). It is crucial to monitor spikes in headline inflation and changes in core inflation, as they indicate long-term trends.
 
-![](images/mc_inflation-05.png)
-
 ## Inflation Breakdown by Sector
 
 Helps identify which sectors are driving inflation. Significant changes in specific sectors, such as energy or food, may reflect cyclical or supply-side problems.

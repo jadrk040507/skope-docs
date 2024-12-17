@@ -1,5 +1,5 @@
 ---
-title: Hextra Theme
+title: skope - Economía UP
 layout: hextra-home
 ---
 
