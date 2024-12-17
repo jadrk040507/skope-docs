@@ -16,7 +16,7 @@ series <- getSeriesData(idSeries)
 fx <- getSerieDataFrame(series, "SF63528")
 
 month <- fx %>% 
-  filter(date >= Sys.Date() - months(1))
+  filter(date >= Sys.Date() - months(3))
 
 five_years <- fx %>% 
   filter(date >= Sys.Date() - years(5))
