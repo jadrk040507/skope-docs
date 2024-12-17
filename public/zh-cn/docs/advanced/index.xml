@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>skope – 高级配置</title>
-    <link>http://localhost:4321/zh-cn/docs/advanced/</link>
+    <link>https://skope-docs.economiaup.com/zh-cn/docs/advanced/</link>
     <description>Recent content in 高级配置 on skope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	  <atom:link href="http://localhost:4321/zh-cn/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://skope-docs.economiaup.com/zh-cn/docs/advanced/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>多语言</title>
-      <link>http://localhost:4321/zh-cn/docs/advanced/multi-language/</link>
+      <link>https://skope-docs.economiaup.com/zh-cn/docs/advanced/multi-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/zh-cn/docs/advanced/multi-language/</guid>
+      <guid>https://skope-docs.economiaup.com/zh-cn/docs/advanced/multi-language/</guid>
       <description>
         
         
@@ -152,10 +152,10 @@
     
     <item>
       <title>评论系统</title>
-      <link>http://localhost:4321/zh-cn/docs/advanced/comments/</link>
+      <link>https://skope-docs.economiaup.com/zh-cn/docs/advanced/comments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/zh-cn/docs/advanced/comments/</guid>
+      <guid>https://skope-docs.economiaup.com/zh-cn/docs/advanced/comments/</guid>
       <description>
         
         
@@ -213,10 +213,10 @@
     
     <item>
       <title>自定义 Hextra</title>
-      <link>http://localhost:4321/zh-cn/docs/advanced/customization/</link>
+      <link>https://skope-docs.economiaup.com/zh-cn/docs/advanced/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/zh-cn/docs/advanced/customization/</guid>
+      <guid>https://skope-docs.economiaup.com/zh-cn/docs/advanced/customization/</guid>
       <description>
         
         

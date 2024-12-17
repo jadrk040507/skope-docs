@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/es/categories/</loc>
+    <loc>https://skope-docs.economiaup.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/categories/"
+                href="https://skope-docs.economiaup.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:4321/zh-cn/categories/"
+                href="https://skope-docs.economiaup.com/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:4321/fa/categories/"
+                href="https://skope-docs.economiaup.com/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:4321/es/categories/"
+                href="https://skope-docs.economiaup.com/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:4321/es/</loc>
+    <loc>https://skope-docs.economiaup.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/"
+                href="https://skope-docs.economiaup.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:4321/zh-cn/"
+                href="https://skope-docs.economiaup.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:4321/fa/"
+                href="https://skope-docs.economiaup.com/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:4321/es/"
+                href="https://skope-docs.economiaup.com/es/"
                 />
   </url><url>
-    <loc>http://localhost:4321/es/tags/</loc>
+    <loc>https://skope-docs.economiaup.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4321/tags/"
+                href="https://skope-docs.economiaup.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:4321/zh-cn/tags/"
+                href="https://skope-docs.economiaup.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:4321/fa/tags/"
+                href="https://skope-docs.economiaup.com/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:4321/es/tags/"
+                href="https://skope-docs.economiaup.com/es/tags/"
                 />
   </url>
 </urlset>

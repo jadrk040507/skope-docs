@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>هگزترا – راهنما</title>
-    <link>http://localhost:4321/fa/docs/guide/</link>
+    <link>https://skope-docs.economiaup.com/fa/docs/guide/</link>
     <description>Recent content in راهنما on هگزترا</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     
-	  <atom:link href="http://localhost:4321/fa/docs/guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://skope-docs.economiaup.com/fa/docs/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>سازماندهی پرونده‌ها</title>
-      <link>http://localhost:4321/fa/docs/guide/organize-files/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/organize-files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/organize-files/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/organize-files/</guid>
       <description>
         
         
@@ -449,10 +449,10 @@
     
     <item>
       <title>پیکربندی</title>
-      <link>http://localhost:4321/fa/docs/guide/configuration/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/configuration/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/configuration/</guid>
       <description>
         
         
@@ -604,7 +604,7 @@
 &lt;h2&gt;نوار کناری&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;نوار-کناری&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%86%d9%88%d8%a7%d8%b1-%da%a9%d9%86%d8%a7%d8%b1%db%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;نوار کناری اصلی&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;نوار-کناری-اصلی&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#%d9%86%d9%88%d8%a7%d8%b1-%da%a9%d9%86%d8%a7%d8%b1%db%8c-%d8%a7%d8%b5%d9%84%db%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;برای نوار کناری اصلی، به طور خودکار از ساختار دایرکتوری محتوا تولید می‌شود.
-برای جزئیات بیشتر به صفحه &lt;a href=&#34;http://localhost:4321/fa/docs/guide/organize-files&#34; &gt;سازماندهی پرونده‌ها&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
+برای جزئیات بیشتر به صفحه &lt;a href=&#34;https://skope-docs.economiaup.com/fa/docs/guide/organize-files&#34; &gt;سازماندهی پرونده‌ها&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
 &lt;p&gt;برای حذف یک صفحه از نوار کناری سمت راست، پارامتر&lt;code&gt;sidebar.exclude&lt;/code&gt; را در قسمت بالایی صفحه تنظیم کنید:&lt;/p&gt;
 &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
   
@@ -929,10 +929,10 @@
     
     <item>
       <title>مارک‌داون</title>
-      <link>http://localhost:4321/fa/docs/guide/markdown/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/markdown/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/markdown/</guid>
       <description>
         
         
@@ -1250,10 +1250,10 @@
     
     <item>
       <title>برجسته‌کردن سینتکس</title>
-      <link>http://localhost:4321/fa/docs/guide/syntax-highlighting/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/syntax-highlighting/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/syntax-highlighting/</guid>
       <description>
         
         
@@ -1437,10 +1437,10 @@
     
     <item>
       <title>LaTeX</title>
-      <link>http://localhost:4321/fa/docs/guide/latex/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/latex/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/latex/</guid>
       <description>
         
         
@@ -1528,10 +1528,10 @@
     
     <item>
       <title>نمودارها</title>
-      <link>http://localhost:4321/fa/docs/guide/diagrams/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/diagrams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/diagrams/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/diagrams/</guid>
       <description>
         
         
@@ -1582,10 +1582,10 @@
     
     <item>
       <title>کدهای کوتاه</title>
-      <link>http://localhost:4321/fa/docs/guide/shortcodes/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/shortcodes/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/</guid>
       <description>
         
         
@@ -1621,10 +1621,10 @@
     
     <item>
       <title>به‌کاراندازی سایت</title>
-      <link>http://localhost:4321/fa/docs/guide/deploy-site/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/deploy-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:4321/fa/docs/guide/deploy-site/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/deploy-site/</guid>
       <description>
         
         
