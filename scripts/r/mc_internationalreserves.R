@@ -4,6 +4,7 @@ library("siebanxicor")
 library(dplyr)
 library(purrr)
 library(tidyr)
+library(lubridate)
 
 # Define your BANXICO API key
 setToken(Sys.getenv("BANXICO_API"))
@@ -11,32 +12,16 @@ setToken(Sys.getenv("BANXICO_API"))
 # Fetch the data using the specified series IDs
 idSeries <- c("SF29656", "SF29654", "SF63528") 
 
+startDate = format(Sys.Date() - years(5), "%Y-%m-%d")
+endDate = format(Sys.Date(), "%Y-%m-%d")
+
+
 # Get the data
-series <- getSeriesData(idSeries, '2010-01-01')
+series <- getSeriesData(idSeries, startDate = startDate, endDate = endDate)
 reserves <- getSerieDataFrame(series, "SF29656")
 asset <- getSerieDataFrame(series, "SF29654")
 fx <-  getSerieDataFrame(series, "SF63528")
 
-series.df <- reduce(list(reserves, asset, fx), full_join, by = "date")
-
-colnames(series.df)[2:4] <- c("Reserva Internacional", "Activos Internacionales Totales", "Tipo de cambio")
-
-# Ordena por fecha
-series.df <- series.df %>%
-  arrange(date)
-
-# Rellena hacia abajo con el valor previo y hacia arriba con el siguiente (nearest neighbor)
-series.df <- series.df %>%
-  mutate(
-    `Reserva Internacional` = spline(date, `Reserva Internacional`, xout = date)$y,
-    `Activos Internacionales Totales` = spline(date, `Activos Internacionales Totales`, xout = date)$y,
-    `Tipo de cambio` = spline(date, `Tipo de cambio`, xout = date)$y
-  )
-
-# Filtra las fechas deseadas
-series.df <- series.df %>%
-  filter(date >= Sys.Date() - years(5))
-
 
 # Specify the output directory and file name
-write.csv(series.df, "scripts/data/mc_internationalreserves.csv", row.names = FALSE)
+write.csv(reserves, "scripts/data/mc_internationalreserves.csv", row.names = FALSE)
