@@ -4,6 +4,7 @@ rm(list = ls())
 library(inegiR)
 library(dplyr)
 library(tidyr)
+library(lubridate)
 
 # Define your INEGI API key
 inegi.api = Sys.getenv("INEGI_API")

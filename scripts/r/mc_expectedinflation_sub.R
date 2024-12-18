@@ -4,6 +4,7 @@ library("siebanxicor")
 library(dplyr)
 library(purrr)
 library(tidyr)
+library(lubridate)
 
 # Define your INEGI API key
 setToken(Sys.getenv("BANXICO_API"))
