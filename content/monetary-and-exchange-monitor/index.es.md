@@ -87,6 +87,11 @@ Discute cómo las reservas internacionales ayudan a mantener la estabilidad del 
 ## Tasa de Interés
 La tasa de interés es un instrumento clave de la política monetaria, utilizado por el Banco de México para controlar la inflación y regular la actividad económica. Esta tasa afecta directamente el costo del crédito, la inversión y el consumo en la economía.
 
+<br>
+
+<iframe title="Tasa de interés objetivo" aria-label="Interactive line chart" id="datawrapper-chart-mJxIt" src="https://datawrapper.dwcdn.net/mJxIt/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="437" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ### Tasa de Interés de Referencia
 Presenta la evolución mensual de la tasa de interés de referencia fijada por el Banco de México. Este indicador es crucial para comprender las decisiones del banco central respecto al control de la inflación y la estabilidad económica.
 
