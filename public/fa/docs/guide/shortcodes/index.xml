@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>هگزترا – کدهای کوتاه</title>
-    <link>http://localhost:1313/fa/docs/guide/shortcodes/</link>
+    <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/</link>
     <description>Recent content in کدهای کوتاه on هگزترا</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
     
-	  <atom:link href="http://localhost:1313/fa/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>کامپوننت FileTree</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/filetree/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/filetree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/filetree/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/filetree/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@
     
     <item>
       <title>آیکون</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/icon/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/icon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/icon/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/icon/</guid>
       <description>
         
         
@@ -201,10 +201,10 @@
     
     <item>
       <title>جزئیات</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/details/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/details/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/details/</guid>
       <description>
         
         
@@ -273,10 +273,10 @@
     
     <item>
       <title>زبانه‌ها</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/tabs/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/tabs/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/tabs/</guid>
       <description>
         
         
@@ -501,10 +501,10 @@
     
     <item>
       <title>کامپوننت فراخوانی</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/callout/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/callout/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/callout/</guid>
       <description>
         
         
@@ -824,10 +824,10 @@
     
     <item>
       <title>کامپوننت کارت‌ها</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/cards/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/cards/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/cards/</guid>
       <description>
         
         
@@ -837,13 +837,13 @@
     class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;../callout&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;1.5&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;فراخوانی&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;http://localhost:1313/fa&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-transparent hx-shadow-sm dark:hx-border-neutral-800 hover:hx-bg-slate-50 hover:hx-shadow-md dark:hover:hx-border-neutral-700 dark:hover:hx-bg-neutral-900&#34;href=&#34;https://skope-docs.economiaup.com/fa&#34;
       &gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-p-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;بدون آیکون&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;hextra-cards hx-mt-4 hx-gap-4 hx-grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:1313/&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;https://skope-docs.economiaup.com/&#34;
       &gt;&lt;img
         alt=&#34;کارت تصویر&#34;
         class=&#34;hextra-card-image&#34;
@@ -855,25 +855,25 @@
         
       /&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;کارت تصویر&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;یک چشم‌انداز Unsplash&lt;/div&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:1313/&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;https://skope-docs.economiaup.com/&#34;
       &gt;&lt;img
         alt=&#34;تصویر محلی&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/card-image-unprocessed.jpg&#34;
+        src=&#34;https://skope-docs.economiaup.com/images/card-image-unprocessed.jpg&#34;
         
         
         
       /&gt;&lt;span class=&#34;hextra-card-icon hx-flex hx-font-semibold hx-items-start hx-gap-2 hx-pt-4 hx-px-4 hx-text-gray-700 hover:hx-text-gray-900 dark:hx-text-neutral-200 dark:hover:hx-text-neutral-50&#34;&gt;تصویر محلی&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx-line-clamp-3 hx-text-sm hx-font-normal hx-text-gray-500 dark:hx-text-gray-400 hx-px-4 hx-mb-4 hx-mt-2&#34;&gt;تصویر خام در دایرکتوری استاتیک است.&lt;/div&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;http://localhost:1313/&#34;
+    class=&#34;hextra-card hx-group hx-flex hx-flex-col hx-justify-start hx-overflow-hidden hx-rounded-lg hx-border hx-border-gray-200 hx-text-current hx-no-underline dark:hx-shadow-none hover:hx-shadow-gray-100 dark:hover:hx-shadow-none hx-shadow-gray-100 active:hx-shadow-sm active:hx-shadow-gray-200 hx-transition-all hx-duration-200 hover:hx-border-gray-300 hx-bg-gray-100 hx-shadow dark:hx-border-neutral-700 dark:hx-bg-neutral-800 dark:hx-text-gray-50 hover:hx-shadow-lg dark:hover:hx-border-neutral-500 dark:hover:hx-bg-neutral-700&#34;href=&#34;https://skope-docs.economiaup.com/&#34;
       &gt;&lt;img
         alt=&#34;تصویر محلی&#34;
         class=&#34;hextra-card-image&#34;
         loading=&#34;lazy&#34;
         decoding=&#34;async&#34;
-        src=&#34;http://localhost:1313/images/space_hu11732582055139980167.webp&#34;
+        src=&#34;https://skope-docs.economiaup.com/images/space_hu11732582055139980167.webp&#34;
         width=&#34;600&#34;
         height=&#34;450&#34;
         
@@ -984,10 +984,10 @@
     
     <item>
       <title>مراحل</title>
-      <link>http://localhost:1313/fa/docs/guide/shortcodes/steps/</link>
+      <link>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fa/docs/guide/shortcodes/steps/</guid>
+      <guid>https://skope-docs.economiaup.com/fa/docs/guide/shortcodes/steps/</guid>
       <description>
         
         

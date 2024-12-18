@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>skope – R</title>
-    <link>http://localhost:1313/en/categories/r/</link>
+    <link>https://skope-docs.economiaup.com/en/categories/r/</link>
     <description>Recent content in R on skope</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/en/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://skope-docs.economiaup.com/en/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:1313/en/blog/2020-12-01-r-rmarkdown/</link>
+      <link>https://skope-docs.economiaup.com/en/blog/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/en/blog/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://skope-docs.economiaup.com/en/blog/2020-12-01-r-rmarkdown/</guid>
       <description>
         
         
@@ -80,7 +80,7 @@
   
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/en/blog/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://skope-docs.economiaup.com/en/blog/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 
