@@ -33,7 +33,7 @@ series.df <- series.df %>%
 
 # Filtra las fechas deseadas
 series.df <- series.df %>%
-  filter(date >= Sys.Date() - years(3))
+  filter(date >= Sys.Date() - years(5))
 
 # Calcula las tasas reales ex-ante y ex-post
 series.df <- series.df %>%
