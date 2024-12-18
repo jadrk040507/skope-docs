@@ -39,7 +39,7 @@ series.df <- series.df %>%
 series.df <- series.df %>%
   mutate(
     `Tasa real ex-ante` = `Tasa objetivo` - `Inflación esperada`,
-    `Tasa real ex-post` = `Tasa objetivo`-  `Inflación`
+    # `Tasa real ex-post` = `Tasa objetivo`-  `Inflación`
   )
 
 # Specify the output directory and file name
