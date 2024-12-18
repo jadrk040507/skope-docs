@@ -25,9 +25,9 @@ fx <-  getSerieDataFrame(series, "SF63528")
 series.df <- reduce(list(reserves, asset), full_join, by = "date")
 colnames(series.df) <- c("date", "Reserva internacional", "Activo internacional total")
 
-series.long <- pivot_longer(series.df, cols = c("Reserva internacional", "Activo internacional total"), 
-                            names_to = "Index", values_to = "Values")
+# series.long <- pivot_longer(series.df, cols = c("Reserva internacional", "Activo internacional total"), 
+#                             names_to = "Index", values_to = "Values")
 
 # Specify the output directory and file name
 write.csv(reserves, "scripts/data/mc_internationalreserves.csv", row.names = FALSE)
-write.csv(series.long, "scripts/data/mc_reserves&assets.csv", row.names = FALSE)
+write.csv(series.df, "scripts/data/mc_reserves&assets.csv", row.names = FALSE)
