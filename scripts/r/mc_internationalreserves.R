@@ -22,8 +22,7 @@ reserves <- getSerieDataFrame(series, "SF29656")
 asset <- getSerieDataFrame(series, "SF29654")
 fx <-  getSerieDataFrame(series, "SF63528")
 
-series.df <- reduce(list(reserves, asset), full_join, by = "date") %>%
-  filter(date == max(date, na.rm = TRUE)) 
+series.df <- reduce(list(reserves, asset), full_join, by = "date")
 colnames(series.df) <- c("date", "Reserva internacional", "Activo internacional total")
 
 series.long <- pivot_longer(series.df, cols = c("Reserva internacional", "Activo internacional total"), 
