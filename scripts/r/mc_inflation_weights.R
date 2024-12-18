@@ -38,7 +38,7 @@ series.incidence <- series.wide %>%
     "Agropecuarios" = Agropecuarios*weights$Weight[weights$Concept == "Agropecuarios"],
     "Energéticos y tarifas autorizadas por el gobierno" = `Energéticos y tarifas autorizadas por el gobierno`*weights$Weight[weights$Concept == "Energéticos y tarifas autorizadas por el gobierno "]
       ) %>% 
-  filter(date >= "2024-01-01")
+  filter(date >= Sys.Date() - years(1))
 
 # Specify the output directory and file name
-(write.csv(series.incidence, "scripts/data/mc_inflation_weights.csv", row.names = FALSE))
+write.csv(series.incidence, "scripts/data/mc_inflation_weights.csv", row.names = FALSE)

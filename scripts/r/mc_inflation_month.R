@@ -23,7 +23,7 @@ series.wide <- series %>%
     'Inflación general' = '910399',
     'Subyacente' = '910400',
     'No subyacente' = '910403') %>% 
-  filter(date >= '2022-01-01')
+  filter(date >= Sys.Date() - years(3))
 
 # Specify the output directory and file name
 write.csv(series.wide, "scripts/data/mc_inflation_month.csv", row.names = FALSE)

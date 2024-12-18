@@ -12,7 +12,7 @@ setToken(Sys.getenv("BANXICO_API"))
 idSeries <- c("SF61745", "SF63528") 
 
 # Get the data
-series <- getSeriesData(idSeries, '2010-01-01')
+series <- getSeriesData(idSeries)
 ref <- getSerieDataFrame(series, "SF61745")
 fx <- getSerieDataFrame(series, "SF63528")
 
@@ -31,6 +31,6 @@ series.df <- series.df %>%
 
 # Filtra las fechas deseadas
 series.df <- series.df %>%
-  filter(date >= "2020-01-01")
+  filter(date >= Sys.Date() - years(3))
 
 write.csv(series.df, "scripts/data/mc_policy_mxnusd.csv", row.names = FALSE)

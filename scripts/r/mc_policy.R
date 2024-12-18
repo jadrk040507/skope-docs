@@ -4,6 +4,7 @@ library("siebanxicor")
 library(dplyr)
 library(purrr)
 library(tidyr)
+library(lubridate)
 
 # Define your BANXICO API key
 setToken(Sys.getenv("BANXICO_API"))
@@ -32,7 +33,7 @@ series.df <- series.df %>%
 
 # Filtra las fechas deseadas
 series.df <- series.df %>%
-  filter(date >= "2020-01-01")
+  filter(date >= Sys.Date() - years(3))
 
 # Calcula las tasas reales ex-ante y ex-post
 series.df <- series.df %>%
